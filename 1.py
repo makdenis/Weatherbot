@@ -1,6 +1,7 @@
 from telegram.ext import Updater
 import logging
 import random
+import requests
 from telegram.ext import CommandHandler
 from telegram.ext import MessageHandler, Filters
 
